@@ -1,1 +1,1 @@
-# Course_Project_Weight_Lifting.Rmd
+# Course_Project_Weight_Lifting
